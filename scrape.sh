@@ -1,2 +1,2 @@
 #!/bin/bash
-./download.sh 'https://hugovk.github.io/free-threaded-wheels/results.json'
+./download.sh 'https://hugovk.github.io/free-threaded-wheels/results.json' results.json
