@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 #
-# download - Simple downloader that always constructs the filename from the URL
-# Usage: ./download.sh URL
+# download - Simple downloader that constructs the filename from the URL
+# Usage: ./download.sh URL [OUTPUT_PATH]
 
 set -e
 
@@ -33,12 +33,13 @@ get_file_extension() {
 }
 
 # Check if URL provided
-if [ $# -ne 1 ]; then
-  echo "Usage: $0 URL"
+if [ $# -lt 1 ] || [ $# -gt 2 ]; then
+  echo "Usage: $0 URL [OUTPUT_PATH]"
   exit 1
 fi
 
 URL="$1"
+OUTPUT_PATH="${2:-}"
 
 # Validate URL format (must start with http:// or https://)
 if [[ ! "$URL" =~ ^https?:// ]]; then
@@ -60,20 +61,34 @@ curl -s -L "$URL" -o "$TEMP_FILE" || {
 # Get file extension based on MIME type
 EXTENSION=$(get_file_extension "$TEMP_FILE")
 
-# Always construct filename from the URL, replacing slashes with hyphens
-FILENAME=$(echo "$URL" | sed -E 's|^https?://||' | sed -E 's|^www\.||' | sed 's|/$||' | sed 's|/|-|g')
-
-# Add extension to the filename
-FILENAME="${FILENAME}${EXTENSION}"
-
-# Make sure we don't end up with just an extension
-if [ "$FILENAME" = "${EXTENSION}" ]; then
-  FILENAME="index${EXTENSION}"
+# Determine final path
+if [ -n "$OUTPUT_PATH" ]; then
+  # User provided a custom path
+  # If it's a directory, append auto-generated filename
+  if [ -d "$OUTPUT_PATH" ]; then
+    FILENAME=$(echo "$URL" | sed -E 's|^https?://||' | sed -E 's|^www\.||' | sed 's|/$||' | sed 's|/|-|g')
+    FILENAME="${FILENAME}${EXTENSION}"
+    if [ "$FILENAME" = "${EXTENSION}" ]; then
+      FILENAME="index${EXTENSION}"
+    fi
+    FULL_PATH="${OUTPUT_PATH}/${FILENAME}"
+  else
+    # Use the provided path as-is
+    FULL_PATH="$OUTPUT_PATH"
+  fi
+else
+  # Auto-generate filename from URL
+  FILENAME=$(echo "$URL" | sed -E 's|^https?://||' | sed -E 's|^www\.||' | sed 's|/$||' | sed 's|/|-|g')
+  FILENAME="${FILENAME}${EXTENSION}"
+  
+  # Make sure we don't end up with just an extension
+  if [ "$FILENAME" = "${EXTENSION}" ]; then
+    FILENAME="index${EXTENSION}"
+  fi
+  
+  CURRENT_DIR="$(pwd)"
+  FULL_PATH="${CURRENT_DIR}/${FILENAME}"
 fi
-
-# Get the current directory to ensure we save to this location
-CURRENT_DIR="$(pwd)"
-FULL_PATH="${CURRENT_DIR}/${FILENAME}"
 
 # Pretty-print JSON if applicable
 if [ "$EXTENSION" = ".json" ]; then
