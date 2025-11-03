@@ -822,9 +822,9 @@
     {
       "downloads": 17423024,
       "name": "bitarray",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 17410806,
@@ -983,9 +983,9 @@
     {
       "downloads": 13079748,
       "name": "rignore",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 12737052,
