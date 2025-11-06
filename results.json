@@ -1242,9 +1242,9 @@
     {
       "downloads": 6383382,
       "name": "logbook",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 6381092,
