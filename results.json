@@ -1074,9 +1074,9 @@
     {
       "downloads": 9956644,
       "name": "shap",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 9562170,
@@ -1697,9 +1697,9 @@
     {
       "downloads": 3170931,
       "name": "pycairo",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 3169281,
@@ -1711,9 +1711,9 @@
     {
       "downloads": 3116331,
       "name": "tensorstore",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 3069110,
