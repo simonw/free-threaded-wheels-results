@@ -864,9 +864,9 @@
     {
       "downloads": 15973755,
       "name": "cymem",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 15950278,
@@ -906,9 +906,9 @@
     {
       "downloads": 15018874,
       "name": "preshed",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 14811359,
@@ -1305,9 +1305,9 @@
     {
       "downloads": 5932924,
       "name": "mmcif",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 5911214,
