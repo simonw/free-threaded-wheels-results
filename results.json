@@ -885,9 +885,9 @@
     {
       "downloads": 15869708,
       "name": "srsly",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 15155504,
