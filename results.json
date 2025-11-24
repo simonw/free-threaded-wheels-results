@@ -780,9 +780,9 @@
     {
       "downloads": 19661376,
       "name": "msgspec",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 19549956,
