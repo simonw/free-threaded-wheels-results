@@ -647,9 +647,9 @@
     {
       "downloads": 29969802,
       "name": "asyncpg",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 28183626,
@@ -2488,9 +2488,9 @@
     {
       "downloads": 1233886,
       "name": "numpy-quaternion",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 1232708,
