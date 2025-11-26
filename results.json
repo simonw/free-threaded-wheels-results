@@ -1249,9 +1249,9 @@
     {
       "downloads": 6381092,
       "name": "pyogrio",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 6372893,
@@ -1627,9 +1627,9 @@
     {
       "downloads": 3618139,
       "name": "krb5",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 3555594,
