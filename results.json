@@ -1522,9 +1522,9 @@
     {
       "downloads": 4255966,
       "name": "pybcj",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 4235560,
@@ -1543,9 +1543,9 @@
     {
       "downloads": 4137128,
       "name": "inflate64",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 4007505,
