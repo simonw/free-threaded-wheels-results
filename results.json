@@ -1606,9 +1606,9 @@
     {
       "downloads": 3549877,
       "name": "sspilib",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 3536050,
