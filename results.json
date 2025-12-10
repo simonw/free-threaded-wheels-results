@@ -136,9 +136,9 @@
     {
       "downloads": 235169227,
       "name": "sqlalchemy",
-      "css_class": "pure-py",
-      "icon": "🐍",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 234134662,
