@@ -1933,13 +1933,6 @@
       "free_threaded_wheel": false
     },
     {
-      "downloads": 2636711,
-      "name": "mediapipe",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
-    },
-    {
       "downloads": 2597825,
       "name": "pywinpty",
       "css_class": "success",
@@ -2516,6 +2509,13 @@
     {
       "downloads": 1307007,
       "name": "yappi",
+      "css_class": "warning",
+      "icon": "✗",
+      "free_threaded_wheel": false
+    },
+    {
+      "downloads": 1294331,
+      "name": "pylibsrtp",
       "css_class": "warning",
       "icon": "✗",
       "free_threaded_wheel": false
