@@ -934,9 +934,9 @@
     {
       "downloads": 15235338,
       "name": "fastparquet",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 14999479,
@@ -2033,9 +2033,9 @@
     {
       "downloads": 2288888,
       "name": "whenever",
-      "css_class": "pure-py",
-      "icon": "🐍",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 2281785,
