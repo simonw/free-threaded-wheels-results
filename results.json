@@ -1571,9 +1571,9 @@
     {
       "downloads": 3714963,
       "name": "python-crfsuite",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 3709379,
