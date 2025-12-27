@@ -1998,8 +1998,8 @@
     {
       "downloads": 2388284,
       "name": "caio",
-      "css_class": "warning",
-      "icon": "✗",
+      "css_class": "pure-py",
+      "icon": "🐍",
       "free_threaded_wheel": false
     },
     {
