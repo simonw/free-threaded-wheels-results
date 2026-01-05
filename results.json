@@ -1935,9 +1935,9 @@
     {
       "downloads": 2619411,
       "name": "netcdf4",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 2619362,
