@@ -2264,9 +2264,9 @@
     {
       "downloads": 1886203,
       "name": "apache-sedona",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 1869691,
