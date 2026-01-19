@@ -540,6 +540,13 @@
       "free_threaded_wheel": false
     },
     {
+      "downloads": 42151430,
+      "name": "pytokens",
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
+    },
+    {
       "downloads": 42057002,
       "name": "argon2-cffi-bindings",
       "css_class": "success",
@@ -2511,13 +2518,6 @@
       "name": "jsoncompat",
       "css_class": "warning",
       "icon": "✗",
-      "free_threaded_wheel": false
-    },
-    {
-      "downloads": 1408964,
-      "name": "torchao",
-      "css_class": "pure-py",
-      "icon": "🐍",
       "free_threaded_wheel": false
     }
   ]
