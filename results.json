@@ -528,8 +528,8 @@
     {
       "downloads": 45579923,
       "name": "mysql-connector-python",
-      "css_class": "warning",
-      "icon": "✗",
+      "css_class": "pure-py",
+      "icon": "🐍",
       "free_threaded_wheel": false
     },
     {
