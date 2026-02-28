@@ -1396,9 +1396,9 @@
     {
       "downloads": 6150735,
       "name": "pillow-heif",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 5931910,
@@ -2334,9 +2334,9 @@
     {
       "downloads": 1959404,
       "name": "ephem",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 1958591,
@@ -2439,9 +2439,9 @@
     {
       "downloads": 1772828,
       "name": "pi-heif",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 1764973,
