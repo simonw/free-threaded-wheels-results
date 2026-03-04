@@ -288,6 +288,13 @@
       "free_threaded_wheel": false
     },
     {
+      "downloads": 127438258,
+      "name": "chardet",
+      "css_class": "pure-py",
+      "icon": "🐍",
+      "free_threaded_wheel": false
+    },
+    {
       "downloads": 125712453,
       "name": "orjson",
       "css_class": "warning",
@@ -2509,13 +2516,6 @@
     {
       "downloads": 1798294,
       "name": "pytest-codspeed",
-      "css_class": "success",
-      "icon": "🧵",
-      "free_threaded_wheel": true
-    },
-    {
-      "downloads": 1792868,
-      "name": "pglast",
       "css_class": "success",
       "icon": "🧵",
       "free_threaded_wheel": true
