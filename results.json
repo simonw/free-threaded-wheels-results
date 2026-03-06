@@ -2026,9 +2026,9 @@
     {
       "downloads": 2860347,
       "name": "brotlicffi",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 2842761,
@@ -2486,13 +2486,6 @@
       "free_threaded_wheel": false
     },
     {
-      "downloads": 1824229,
-      "name": "chdb",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
-    },
-    {
       "downloads": 1811384,
       "name": "torchao",
       "css_class": "pure-py",
@@ -2516,6 +2509,13 @@
     {
       "downloads": 1798294,
       "name": "pytest-codspeed",
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
+    },
+    {
+      "downloads": 1792868,
+      "name": "pglast",
       "css_class": "success",
       "icon": "🧵",
       "free_threaded_wheel": true
