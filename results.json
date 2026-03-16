@@ -3,9 +3,9 @@
     {
       "downloads": 1006015167,
       "name": "charset-normalizer",
-      "css_class": "pure-py",
-      "icon": "🐍",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 761066003,
