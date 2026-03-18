@@ -1949,9 +1949,9 @@
     {
       "downloads": 3124534,
       "name": "lmdb",
-      "css_class": "success",
-      "icon": "🧵",
-      "free_threaded_wheel": true
+      "css_class": "warning",
+      "icon": "✗",
+      "free_threaded_wheel": false
     },
     {
       "downloads": 3103295,
