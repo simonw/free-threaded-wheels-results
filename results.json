@@ -1870,6 +1870,13 @@
       "free_threaded_wheel": true
     },
     {
+      "downloads": 3289727,
+      "name": "datefinder",
+      "css_class": "warning",
+      "icon": "✗",
+      "free_threaded_wheel": false
+    },
+    {
       "downloads": 3283005,
       "name": "rasterio",
       "css_class": "success",
@@ -2509,13 +2516,6 @@
     {
       "downloads": 1798294,
       "name": "pytest-codspeed",
-      "css_class": "success",
-      "icon": "🧵",
-      "free_threaded_wheel": true
-    },
-    {
-      "downloads": 1792868,
-      "name": "pglast",
       "css_class": "success",
       "icon": "🧵",
       "free_threaded_wheel": true
