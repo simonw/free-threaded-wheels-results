@@ -1221,9 +1221,9 @@
     {
       "downloads": 9546516,
       "name": "awscrt",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 9229610,
