@@ -318,9 +318,9 @@
     {
       "downloads": 154742230,
       "name": "chardet",
-      "css_class": "pure-py",
-      "icon": "🐍",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 138818907,
