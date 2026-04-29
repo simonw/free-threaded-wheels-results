@@ -801,9 +801,9 @@
     {
       "downloads": 34507558,
       "name": "cbor2",
-      "css_class": "pure-py",
-      "icon": "🐍",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 33987712,
