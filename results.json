@@ -619,9 +619,9 @@
     {
       "downloads": 55991192,
       "name": "uuid-utils",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 55518364,
