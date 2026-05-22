@@ -1452,9 +1452,9 @@
     {
       "downloads": 7831853,
       "name": "toons",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 7763540,
@@ -2194,9 +2194,9 @@
     {
       "downloads": 3299525,
       "name": "torchcodec",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 3294411,
