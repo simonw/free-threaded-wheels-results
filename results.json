@@ -2040,9 +2040,9 @@
     {
       "downloads": 3810399,
       "name": "cupy-cuda12x",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 3789059,
