@@ -346,9 +346,9 @@
     {
       "downloads": 166558575,
       "name": "httptools",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 157094772,
@@ -591,9 +591,9 @@
     {
       "downloads": 60027466,
       "name": "zope-interface",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 59889406,
