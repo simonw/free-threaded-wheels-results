@@ -2460,9 +2460,9 @@
     {
       "downloads": 2622312,
       "name": "pyobjc-core",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 2619673,
