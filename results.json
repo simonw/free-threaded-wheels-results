@@ -2194,9 +2194,9 @@
     {
       "downloads": 2977326,
       "name": "djlint",
-      "css_class": "pure-py",
-      "icon": "🐍",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 2930792,
