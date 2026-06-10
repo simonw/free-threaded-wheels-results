@@ -1739,9 +1739,9 @@
     {
       "downloads": 4348827,
       "name": "pyodps",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 4293286,
@@ -2054,9 +2054,9 @@
     {
       "downloads": 3215589,
       "name": "osqp",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 3187805,
