@@ -90,19 +90,22 @@ else
   FULL_PATH="${CURRENT_DIR}/${FILENAME}"
 fi
 
-# Pretty-print JSON if applicable
+# Pretty-print JSON and drop volatile metadata if applicable
 if [ "$EXTENSION" = ".json" ]; then
   # Create another temporary file for the pretty-printed version
   PRETTY_TEMP=$(mktemp)
-  # Try to pretty-print with jq, but don't fail if jq fails
-  if command -v jq &> /dev/null; then
-    if jq . "$TEMP_FILE" > "$PRETTY_TEMP" 2>/dev/null; then
-      mv "$PRETTY_TEMP" "$TEMP_FILE"
-    else
-      rm -f "$PRETTY_TEMP"
-    fi
+  if ! command -v jq &> /dev/null; then
+    echo "Error: jq is required to normalize JSON downloads"
+    rm -f "$TEMP_FILE" "$PRETTY_TEMP"
+    exit 1
+  fi
+
+  if jq 'if type == "object" then del(.last_update) else . end' "$TEMP_FILE" > "$PRETTY_TEMP" 2>/dev/null; then
+    mv "$PRETTY_TEMP" "$TEMP_FILE"
   else
-    rm -f "$PRETTY_TEMP"
+    echo "Error: Failed to normalize JSON from $URL"
+    rm -f "$TEMP_FILE" "$PRETTY_TEMP"
+    exit 1
   fi
 fi
 
