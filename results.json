@@ -799,6 +799,13 @@
       "free_threaded_wheel": true
     },
     {
+      "downloads": 41968730,
+      "name": "hypothesis",
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
+    },
+    {
       "downloads": 41446864,
       "name": "pyrsistent",
       "css_class": "pure-py",
@@ -1893,9 +1900,9 @@
     {
       "downloads": 5304357,
       "name": "habluetooth",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 5303661,
@@ -2511,13 +2518,6 @@
       "name": "decord",
       "css_class": "pure-py",
       "icon": "🐍",
-      "free_threaded_wheel": false
-    },
-    {
-      "downloads": 3043830,
-      "name": "pyreadstat",
-      "css_class": "warning",
-      "icon": "✗",
       "free_threaded_wheel": false
     }
   ]
