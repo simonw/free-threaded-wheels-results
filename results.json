@@ -2227,13 +2227,6 @@
       "free_threaded_wheel": false
     },
     {
-      "downloads": 3842560,
-      "name": "pglast",
-      "css_class": "success",
-      "icon": "🧵",
-      "free_threaded_wheel": true
-    },
-    {
       "downloads": 3840334,
       "name": "chroma-hnswlib",
       "css_class": "warning",
@@ -2518,6 +2511,13 @@
       "name": "decord",
       "css_class": "pure-py",
       "icon": "🐍",
+      "free_threaded_wheel": false
+    },
+    {
+      "downloads": 3043830,
+      "name": "pyreadstat",
+      "css_class": "warning",
+      "icon": "✗",
       "free_threaded_wheel": false
     }
   ]
