@@ -1499,6 +1499,13 @@
       "free_threaded_wheel": false
     },
     {
+      "downloads": 8932451,
+      "name": "pipdeptree",
+      "css_class": "warning",
+      "icon": "✗",
+      "free_threaded_wheel": false
+    },
+    {
       "downloads": 8867348,
       "name": "openlineage-sql",
       "css_class": "warning",
@@ -2512,13 +2519,6 @@
       "css_class": "success",
       "icon": "🧵",
       "free_threaded_wheel": true
-    },
-    {
-      "downloads": 3055628,
-      "name": "tree-sitter-json",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
     }
   ]
 }
