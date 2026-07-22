@@ -1501,9 +1501,9 @@
     {
       "downloads": 8932451,
       "name": "pipdeptree",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 8867348,
