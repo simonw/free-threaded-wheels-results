@@ -612,9 +612,9 @@
     {
       "downloads": 72449673,
       "name": "caio",
-      "css_class": "pure-py",
-      "icon": "🐍",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 72441274,
