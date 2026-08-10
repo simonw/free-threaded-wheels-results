@@ -2458,13 +2458,6 @@
       "free_threaded_wheel": false
     },
     {
-      "downloads": 3394230,
-      "name": "pydantic-monty",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
-    },
-    {
       "downloads": 3369467,
       "name": "pyqt5-sip",
       "css_class": "warning",
@@ -2519,6 +2512,13 @@
       "css_class": "warning",
       "icon": "✗",
       "free_threaded_wheel": false
+    },
+    {
+      "downloads": 3221910,
+      "name": "sspilib",
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     }
   ]
 }
