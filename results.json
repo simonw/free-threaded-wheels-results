@@ -2465,6 +2465,13 @@
       "free_threaded_wheel": false
     },
     {
+      "downloads": 3335625,
+      "name": "asynch",
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
+    },
+    {
       "downloads": 3335601,
       "name": "zeroconf",
       "css_class": "success",
@@ -2512,13 +2519,6 @@
       "css_class": "warning",
       "icon": "✗",
       "free_threaded_wheel": false
-    },
-    {
-      "downloads": 3221910,
-      "name": "sspilib",
-      "css_class": "success",
-      "icon": "🧵",
-      "free_threaded_wheel": true
     }
   ]
 }
