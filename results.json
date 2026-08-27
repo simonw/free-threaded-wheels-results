@@ -407,6 +407,13 @@
       "free_threaded_wheel": false
     },
     {
+      "downloads": 133848740,
+      "name": "isort",
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
+    },
+    {
       "downloads": 130349391,
       "name": "tornado",
       "css_class": "warning",
@@ -801,9 +808,9 @@
     {
       "downloads": 45723143,
       "name": "statsmodels",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 44831557,
@@ -2512,13 +2519,6 @@
       "css_class": "success",
       "icon": "🧵",
       "free_threaded_wheel": true
-    },
-    {
-      "downloads": 3254947,
-      "name": "coincurve",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
     }
   ]
 }
