@@ -1641,9 +1641,9 @@
     {
       "downloads": 7839639,
       "name": "xgrammar",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 7796649,
