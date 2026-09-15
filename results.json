@@ -1933,6 +1933,13 @@
       "free_threaded_wheel": false
     },
     {
+      "downloads": 5433606,
+      "name": "numpy-financial",
+      "css_class": "warning",
+      "icon": "✗",
+      "free_threaded_wheel": false
+    },
+    {
       "downloads": 5410211,
       "name": "selectolax",
       "css_class": "success",
@@ -2509,13 +2516,6 @@
     {
       "downloads": 3161840,
       "name": "hdbcli",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
-    },
-    {
-      "downloads": 3149373,
-      "name": "tree-sitter-scala",
       "css_class": "warning",
       "icon": "✗",
       "free_threaded_wheel": false
