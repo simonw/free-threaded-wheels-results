@@ -1494,9 +1494,9 @@
     {
       "downloads": 10438560,
       "name": "cchardet",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
     },
     {
       "downloads": 10347193,
