@@ -225,6 +225,13 @@
       "free_threaded_wheel": false
     },
     {
+      "downloads": 307965274,
+      "name": "wcwidth",
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
+    },
+    {
       "downloads": 292698850,
       "name": "hf-xet",
       "css_class": "success",
@@ -2512,13 +2519,6 @@
       "css_class": "warning",
       "icon": "✗",
       "free_threaded_wheel": false
-    },
-    {
-      "downloads": 3169046,
-      "name": "djlint",
-      "css_class": "success",
-      "icon": "🧵",
-      "free_threaded_wheel": true
     }
   ]
 }
