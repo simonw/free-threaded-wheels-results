@@ -1667,6 +1667,13 @@
       "free_threaded_wheel": false
     },
     {
+      "downloads": 7633701,
+      "name": "pulp",
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
+    },
+    {
       "downloads": 7627641,
       "name": "pipdeptree",
       "css_class": "success",
@@ -2509,13 +2516,6 @@
     {
       "downloads": 3261817,
       "name": "editdistance",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
-    },
-    {
-      "downloads": 3214212,
-      "name": "libsass",
       "css_class": "warning",
       "icon": "✗",
       "free_threaded_wheel": false
