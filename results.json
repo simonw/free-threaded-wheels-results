@@ -451,9 +451,9 @@
     {
       "downloads": 85271565,
       "name": "pymupdf",
-      "css_class": "success",
-      "icon": "🧵",
-      "free_threaded_wheel": true
+      "css_class": "warning",
+      "icon": "✗",
+      "free_threaded_wheel": false
     },
     {
       "downloads": 84886808,
@@ -1646,13 +1646,6 @@
       "free_threaded_wheel": true
     },
     {
-      "downloads": 5839972,
-      "name": "pymupdf-layout",
-      "css_class": "warning",
-      "icon": "✗",
-      "free_threaded_wheel": false
-    },
-    {
       "downloads": 5770564,
       "name": "whenever",
       "css_class": "success",
@@ -2516,6 +2509,13 @@
     {
       "downloads": 2465332,
       "name": "chroma-hnswlib",
+      "css_class": "warning",
+      "icon": "✗",
+      "free_threaded_wheel": false
+    },
+    {
+      "downloads": 2446721,
+      "name": "tree-sitter-swift",
       "css_class": "warning",
       "icon": "✗",
       "free_threaded_wheel": false
