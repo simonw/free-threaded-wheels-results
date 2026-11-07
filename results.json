@@ -1828,13 +1828,6 @@
       "free_threaded_wheel": true
     },
     {
-      "downloads": 5464772,
-      "name": "mujoco",
-      "css_class": "success",
-      "icon": "🧵",
-      "free_threaded_wheel": true
-    },
-    {
       "downloads": 5393069,
       "name": "vtk",
       "css_class": "success",
@@ -2516,6 +2509,13 @@
     {
       "downloads": 2913157,
       "name": "pytest-codspeed",
+      "css_class": "success",
+      "icon": "🧵",
+      "free_threaded_wheel": true
+    },
+    {
+      "downloads": 2907615,
+      "name": "toons",
       "css_class": "success",
       "icon": "🧵",
       "free_threaded_wheel": true
